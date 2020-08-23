@@ -25,5 +25,7 @@ public class P2 {
 		
 		//Print result
 		System.out.println("The sum is " + sum);
+		
+		input.close();
 	}
 }

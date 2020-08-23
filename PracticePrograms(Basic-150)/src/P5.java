@@ -27,6 +27,8 @@ public class P5 {
 		System.out.println(firstNumber + 
 				" x " + secondNumber +
 				" = "+ result);
+		
+		input.close();
 	}
 
 }

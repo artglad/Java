@@ -14,6 +14,8 @@ public class P1 {
 		
 		//Greet and Return name
 		System.out.println("Hello " + userName);
+		
+		input.close();
 	}
 
 }

@@ -15,6 +15,8 @@ public class P7 {
 		for (int i = 1; i < 11; i++) {
 			System.out.println(number + " x " + i + " = " + number*i);
 		}
+		
+		input.close();
 	}
 
 }

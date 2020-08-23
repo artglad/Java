@@ -24,6 +24,7 @@ public class P3 {
 		// Return result
 		System.out.println("The result is: " + String.format("%.2f", result));
 		
+		input.close();
 	}
 
 }
