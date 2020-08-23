@@ -2,7 +2,7 @@
 public class Problem10 {
 	/*
 	 * compute the specified expressions and 
-	 * print the output (expression given)
+	 * print the output (expression given) 
 	 */
 	public static void main(String[] args) {
 		double output = 4.0 * (1 - (1.0 / 3) + 

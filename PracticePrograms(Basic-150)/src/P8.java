@@ -1,6 +1,6 @@
 
 public class P8 {
-/*Display JAVA*/
+/* Display JAVA in console */
 	
 	public static void main(String[] args) {
 		System.out.println("   J     a   V     V   a   ");

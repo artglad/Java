@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/*Dividing two numbers and display the result with fraction */
+/* Dividing two numbers and display the result with fraction */
 public class P3 {
 
 	public static void main(String[] args) {

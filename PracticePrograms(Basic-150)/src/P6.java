@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class P6 {
 
-	/*
+	/* 
 	 * print the sum (addition), multiply, subtract, 
 	 * divide and remainder of two numbers 
 	 */

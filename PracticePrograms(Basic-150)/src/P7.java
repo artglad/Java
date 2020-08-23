@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class P7 {
-	/* takes a number as input and prints its multiplication table up to 10 */
+	/* takes a number as input and 
+	 * prints its multiplication table up to 10 */
 	public static void main(String[] args) {
 		int number;
 		
@@ -13,7 +14,8 @@ public class P7 {
 		
 		//Solve and display
 		for (int i = 1; i < 11; i++) {
-			System.out.println(number + " x " + i + " = " + number*i);
+			System.out.println(number + " x " + i +
+							" = " + number*i);
 		}
 		
 		input.close();

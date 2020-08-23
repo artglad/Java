@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/*Asking user for 2 numbers and adding them together*/
+/*Asking user for 2 numbers and adding them together */
 
 public class P2 {
 	public static void main(String[] args) {

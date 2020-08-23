@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class P5 {
-/*Asking user to enter two numbers and display the
- * multiplication result*/
+/* Asking user to enter two numbers and display the
+ * multiplication result */
 	public static void main(String[] args) {
 		// Variables
 		int firstNumber;
