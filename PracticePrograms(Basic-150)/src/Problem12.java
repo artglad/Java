@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Problem12 {
 
-	/* ARRAY SOLUTION New
+	/* ARRAY SOLUTION 
 	 * program that takes numbers as input 
 	 * to calculate and print the average of the numbers
 	 */
